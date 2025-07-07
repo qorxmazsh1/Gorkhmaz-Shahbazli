@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4E03AQE5wOSjQUyojQ/profile-displayphoto-shrink_400_400/B4EZY.6PquHcAg-/0/1744812180948?e=1756944000&v=beta&t=sNVEOpd1971dTr0bKo-Lsf90dxx2lSgm9ImkOwjbrjw)
+
 
 <h3 align="center">I am a motivated and collaborative Data Scientist with a strong sense of responsibility and a passion for solving realworld problems using data-driven approaches. With a solid foundation in Python, SQL, statistics, machine learning,and data modeling, I strive to deliver impactful insights and innovative solutions. Eager to continuously learn and grow, I am committed to contributing meaningfully to data science and machine learning projects that drive value and progress.</h3>
 
